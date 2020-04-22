@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/testchat/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/testchat/static/js/main.619a943c.chunk.js",
-    "main.js.map": "/testchat/static/js/main.619a943c.chunk.js.map",
+    "main.js": "/testchat/static/js/main.97b26b90.chunk.js",
+    "main.js.map": "/testchat/static/js/main.97b26b90.chunk.js.map",
     "runtime-main.js": "/testchat/static/js/runtime-main.6d7f9a86.js",
     "runtime-main.js.map": "/testchat/static/js/runtime-main.6d7f9a86.js.map",
     "static/js/2.04931e02.chunk.js": "/testchat/static/js/2.04931e02.chunk.js",
     "static/js/2.04931e02.chunk.js.map": "/testchat/static/js/2.04931e02.chunk.js.map",
     "index.html": "/testchat/index.html",
-    "precache-manifest.209a4a8c23484222327be446f35740ef.js": "/testchat/precache-manifest.209a4a8c23484222327be446f35740ef.js",
+    "precache-manifest.509175a85b86d8c67e9e6f2bdcbac6b5.js": "/testchat/precache-manifest.509175a85b86d8c67e9e6f2bdcbac6b5.js",
     "service-worker.js": "/testchat/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/testchat/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.04931e02.chunk.js.LICENSE.txt": "/testchat/static/js/2.04931e02.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6d7f9a86.js",
     "static/js/2.04931e02.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.619a943c.chunk.js"
+    "static/js/main.97b26b90.chunk.js"
   ]
 }
